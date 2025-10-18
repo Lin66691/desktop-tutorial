@@ -170,7 +170,7 @@
     </div>
 基于以上html文件，同时完成文档内所有内容
     <footer>
-        <p>林晨洁 | 机械专业自我介绍 | 联系方式：linchenjie@example.com</p>
+        <p>林晨洁 | 机械专业自我介绍 | 联系方式：15160235530@qq.com</p>
     </footer>
 </body>
-</html>
+
